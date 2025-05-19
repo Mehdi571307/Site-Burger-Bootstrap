@@ -1,0 +1,32 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+img {
+    height: 150px;
+}
+
+.card-img, .card-img-bottom {
+   height: 450px;
+   width: 630px;
+}
+
+.col-md-5 {
+    margin-bottom: 100px;
+}
+
+.alert {
+    font-size: 60px;
+    font-family: "Updock", cursive;
+}
+      
+h5 {
+    font-family: "Nunito", sans-serif;
+    font-size: 30px;
+}
+
+.card-img, .card-img-top {
+    height: 300px;
+}
+
